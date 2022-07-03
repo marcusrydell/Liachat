@@ -1,6 +1,6 @@
-#ViaEcole Internship project
+# ViaEcole Internship project
 
-##Technologies
+## Technologies
 *Laravel - Backend framework
 *MySQL
 *React - Frontend framework
